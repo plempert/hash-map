@@ -2,7 +2,6 @@
 #define MINI_MAP
 
 #include "mini_list.h"
-#include <iostream>
 
 template <typename T>
 class MiniMap{
